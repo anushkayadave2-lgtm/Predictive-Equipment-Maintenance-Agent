@@ -67,4 +67,7 @@ Neither approach fully utilizes the continuous condition information available f
 
 * Process Equipment Sensor Data
 * Understand Sensor Behavior
+* abnormal patterns detection
+* failure prediction
+* sensor trends
 
