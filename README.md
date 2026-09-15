@@ -26,3 +26,27 @@ Although this reduces the probability of unexpected failure, maintenance may occ
     -Too late, potentially allowing degradation to continue
 
 Neither approach fully utilizes the continuous condition information available from machine sensors.
+
+
+### Proposed solution
+
+* The proposed system introduces a data-driven predictive maintenance approach.
+
+* Instead of waiting for equipment failure or relying solely on fixed maintenance schedules, the system analyzes historical sensor observations to identify patterns that may indicate equipment degradation.
+
+* The complete analytical process consists of:
+
+-Sensor data acquisition
+-Data validation
+-Data preprocessing
+-Time-series analysis
+-Sensor trend analysis
+-Abnormal pattern detection
+-Failure prediction
+-Failure probability estimation
+-Risk classification
+-Maintenance alert generation
+
+* The central concept is:
+
+-Raw Sensor Data → Machine Condition Information → Risk Assessment → Maintenance Decision
