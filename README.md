@@ -37,14 +37,23 @@ Neither approach fully utilizes the continuous condition information available f
 * The complete analytical process consists of:
 
 -Sensor data acquisition
+
 -Data validation
+
 -Data preprocessing
+
 -Time-series analysis
+
 -Sensor trend analysis
+
 -Abnormal pattern detection
+
 -Failure prediction
+
 -Failure probability estimation
+
 -Risk classification
+
 -Maintenance alert generation
 
 * The central concept is:
