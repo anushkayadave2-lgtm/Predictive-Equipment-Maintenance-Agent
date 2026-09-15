@@ -7,12 +7,15 @@
 
 Existing maintenance approaches have limitations.
 1) Reactive Maintenance
+
 Equipment is repaired only after a failure occurs.
 
 The primary disadvantage is that the failure has already caused disruption by the time maintenance begins.
 
 2) Preventive Maintenance
+
 Maintenance is performed at predefined intervals.
+
 Although this reduces the probability of unexpected failure, maintenance may occur:
     -Too early, resulting in unnecessary maintenance
     -Too late, potentially allowing degradation to continue
