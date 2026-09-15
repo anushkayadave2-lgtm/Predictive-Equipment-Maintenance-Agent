@@ -1,5 +1,6 @@
-<img width="1917" height="901" alt="data quality summary" src="https://github.com/user-attachments/assets/31c88cf9-84d7-4eab-9935-efc56ffffa70" />
 # Predictive-Equipment-Maintenance-Agent
+<img width="1917" height="901" alt="data quality summary" src="https://github.com/user-attachments/assets/31c88cf9-84d7-4eab-9935-efc56ffffa70" />
+
 
 ## An AI-assisted predictive maintenance dashboard that analyzes industrial sensor data, detects abnormal equipment behavior, estimates failure risk, and generates maintenance alerts before equipment failure occurs
 
