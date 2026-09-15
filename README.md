@@ -17,6 +17,9 @@ The primary disadvantage is that the failure has already caused disruption by th
 Maintenance is performed at predefined intervals.
 
 Although this reduces the probability of unexpected failure, maintenance may occur:
+    
     -Too early, resulting in unnecessary maintenance
+    
     -Too late, potentially allowing degradation to continue
+
 Neither approach fully utilizes the continuous condition information available from machine sensors.
