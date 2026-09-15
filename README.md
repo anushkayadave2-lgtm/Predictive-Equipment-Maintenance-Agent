@@ -32,11 +32,11 @@ Neither approach fully utilizes the continuous condition information available f
 
 * The proposed system introduces a data-driven predictive maintenance approach.
 
-* Instead of waiting for equipment failure or relying solely on fixed maintenance schedules, the system analyzes historical sensor observations to identify patterns that may indicate equipment degradation.
+* Instead of waiting for equipment failure or depending  on fixed maintenance schedules, the system analyzes historical sensor observations to identify patterns that may indicate equipment failures.
 
 * The complete analytical process consists of:
 
--Sensor data acquisition
+-Sensor data collection
 
 -Data validation
 
