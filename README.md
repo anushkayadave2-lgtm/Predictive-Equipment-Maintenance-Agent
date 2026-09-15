@@ -59,3 +59,10 @@ Neither approach fully utilizes the continuous condition information available f
 * The central concept is:
 
 -Raw Sensor Data → Machine Condition Information → Risk Assessment → Maintenance Decision
+
+
+### Importance of our project
+
+* Process Equipment Sensor Data
+* Understand Sensor Behavior
+
